@@ -6,8 +6,10 @@ Currently, I'm working on my final thesis in Mathematics, where I'm studying sta
 
 ### Trajectory :briefcase:
  - :books: I'm studying Maths and Computer Engineering at [USC](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/doble-grado-ingenieria-informatica-matematicas).
+ - :computer: During the summer of 2023, I worked at [Gradiant](https://github.com/Gradiant) as an intern on NLP tasks.
+ - :trophy: Our team, CostaCompas, qualified for the national phase of the [Ada Byron competition](https://ada-byron.es/), after finishing second in the regional phase.
  - :trophy: Our team, CostaCompas, won one of the prizes of [HackUDC](https://hackudc.gpul.org/) ([link](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) to Devpost and [link](https://github.com/CastilloDel/costaCompas) to the project on GitHub).
- - :rocket: I received a scholarship to research in NLP in 2022.
+ - :rocket: I received a scholarship to research in NLP during the summer of 2022.
 
 ### Interests & Skills :mag_right:
 
