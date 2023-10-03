@@ -2,7 +2,7 @@
 
 I'm a final year Mathematics and Computer Engineering student. During the summer of 2022, I was researching in the field of NLP with a scolarship at [CiTIUS](https://citius.gal/).
 
-Currently, I'm working on my final thesis in Mathematics, where I'm studying statistical classifier ensembles with the aim of developing a system to evaluate them. Additionally, I'm exploring the idea of using classifiers to enlarge the features of a population. The objective is to increase knowledge about populations and to be able to apply another statistical classifier on the enlarged population.
+Currently, I'm working on my end-of-degree project in Mathematics, where I'm studying statistical classifier ensembles with the aim of developing a system to evaluate them. Additionally, I'm exploring the idea of using classifiers to enlarge the features of a population. The objective is to increase knowledge about populations and to be able to apply another statistical classifier on the enlarged population.
 
 ### Trajectory :briefcase:
  - :books: I'm studying Maths and Computer Engineering at [USC](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/doble-grado-ingenieria-informatica-matematicas).
