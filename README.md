@@ -1,23 +1,20 @@
 #### Hi there 👋
 
-I'm a final year Mathematics and Computer Engineering student. During the summer of 2022, I was researching in the field of NLP with a scolarship at [CiTIUS](https://citius.gal/).
-
-Currently, I'm working on my end-of-degree project in Mathematics, where I'm studying statistical classifier ensembles with the aim of developing a system to evaluate them. Additionally, I'm exploring the idea of using classifiers to enlarge the features of a population. The objective is to increase knowledge about populations and to be able to apply another statistical classifier on the enlarged population.
-
+I'm a final year Mathematics and Computer Engineering student. Currently, I'm working on my final degree projects and doing an internship at [CITMAga](https://citmaga.gal/es/home), where I'm involved in tasks related to statistical classifiers.
 ### Trajectory :briefcase:
  - :books: I'm studying Maths and Computer Engineering at [USC](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/doble-grado-ingenieria-informatica-matematicas).
  - :computer: During the summer of 2023, I worked at [Gradiant](https://github.com/Gradiant) as an intern on NLP tasks.
  - :trophy: Our team, CostaCompas, qualified for the national phase of the [Ada Byron competition](https://ada-byron.es/), after finishing second in the regional phase.
- - :trophy: Our team, CostaCompas, won one of the prizes of [HackUDC](https://hackudc.gpul.org/) ([link](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) to Devpost and [link](https://github.com/CastilloDel/costaCompas) to the project on GitHub).
- - :rocket: I received a scholarship to research in NLP during the summer of 2022.
+ - :trophy: Our team, CostaCompas, won one of the prizes of [HackUDC](https://hackudc.gpul.org/) ([project](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) on Devpost - [project](https://github.com/CastilloDel/costaCompas) on GitHub).
+ - :rocket: I received a scholarship to collaborate research in NLP during the summer of 2022 at [CiTIUS](https://citius.gal).
 
 ### Interests & Skills :mag_right:
 
  - :speech_balloon: I'm experienced in Java, C, and Python
- - :baby: I'm also learning C++.
+ - :baby: I'm also learning C++ and R
  - :dart: My main interests are NLP, Clustering & Multivariate Analysis
  - :zap: I enjoy participating in programming competitions and taking on new challenges
- - :family: I'm looking to collaborate on Open Source projects.
+ - :family: I'm looking to collaborate on Open Source projects
 
 ### GitHub stats :chart_with_upwards_trend: 
 
