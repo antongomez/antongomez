@@ -3,9 +3,10 @@
 I'm a final year Mathematics and Computer Engineering student. Currently, I'm working on my final degree projects and doing an internship at [CITMAga](https://citmaga.gal/es/home), where I'm involved in tasks related to statistical classifiers.
 ### Trajectory :briefcase:
  - :books: I'm studying Maths and Computer Engineering at [USC](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/doble-grado-ingenieria-informatica-matematicas).
+ - :trophy: Our team, won two of the prizes of second edition of [HackUDC](https://hackudc.gpul.org/) ([project](https://devpost.com/software/ecoviaggio) on Devpost - [project](https://github.com/antongomez/ecoviaggio) on GitHub).
  - :computer: During the summer of 2023, I worked at [Gradiant](https://github.com/Gradiant) as an intern on NLP tasks.
  - :trophy: Our team, CostaCompas, qualified for the national phase of the [Ada Byron competition](https://ada-byron.es/), after finishing second in the regional phase.
- - :trophy: Our team, CostaCompas, won one of the prizes of [HackUDC](https://hackudc.gpul.org/) ([project](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) on Devpost - [project](https://github.com/CastilloDel/costaCompas) on GitHub).
+ - :trophy: Our team, CostaCompas, won one of the prizes of first edition of [HackUDC](https://hackudc.gpul.org/) ([project](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) on Devpost - [project](https://github.com/CastilloDel/costaCompas) on GitHub).
  - :rocket: I received a scholarship to collaborate research in NLP during the summer of 2022 at [CiTIUS](https://citius.gal).
 
 ### Interests & Skills :mag_right:
