@@ -13,10 +13,12 @@ I'm a final year Mathematics and Computer Engineering student. Currently, I'm wo
 
  - :speech_balloon: I'm experienced in Java, C, Python and R
  - :baby: I'm also learning C++
- - :dart: My main interests are NLP, Computer Vision & Multivariate Analysis
+ - :dart: My main interests are NLP, Computer Vision & Statistical Classification
  - :zap: I enjoy participating in programming competitions and taking on new challenges
  - :family: I'm looking to collaborate on Open Source projects
 
 ### GitHub stats :chart_with_upwards_trend: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antongomez&layout=compact&theme=highcontrast&size_weight=0.5&count_weight=0.5&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antongomez&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anton's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antongomez&layout=compact&theme=highcontrast&size_weight=0.5&count_weight=0.5&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
