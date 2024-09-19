@@ -10,7 +10,7 @@ I am a Master's student in Artificial Intelligence at the University of Santiago
  - :rocket: I received a scholarship to collaborate research in NLP during the summer of 2022 at [CiTIUS](https://citius.gal).
 
 ### Projects
- - :hammer: I'm currently working to develope a [conditional version of StyleGAN2](https://github.com/antongomez/Conditional-StyleGAN2) that works with multispectral images.
+ - :hammer: I'm currently working on developing a [conditional version of StyleGAN2](https://github.com/antongomez/Conditional-StyleGAN2) that works with multispectral images.
  - :turtle: As a continuation of my work at CITMAga, I collaborated to develop multiclass functionality for the open-source project [caretEnsemble](https://github.com/zachmayer/caretEnsemble).
 
 ### Interests & Skills :mag_right:
