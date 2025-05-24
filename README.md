@@ -3,6 +3,7 @@
 I am a Master's student in Artificial Intelligence at the University of Santiago de Compostela (USC). Additionally, I am continuing to develop my undergraduate thesis in Computer Engineering, focused on the classification of multispectral images using Generative Adversarial Networks (GANs).
 
 ### Trajectory :briefcase:
+ - :mag: I'm currently working at CiTIUS with a research scholarship, continuing my bachelor's thesis by exploring the use of GANs for classifying multispectral images.
  - :books: I'm studying a master degree in Artificial Intelligence at [USC](https://www.usc.gal/en/studies/masters/engineering-and-architecture/masters-degree-artificial-intelligence).
  - :man_student: I studied Maths and Computer Engineering at [USC](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/double-degree-informatics-engineering-and-mathematics).
  - :abacus: During last months of 2023, I worked as a research assistant at [CITMAga](https://citmaga.gal/en/home) in statistical classification.
@@ -10,8 +11,8 @@ I am a Master's student in Artificial Intelligence at the University of Santiago
  - :rocket: I received a scholarship to collaborate research in NLP during the summer of 2022 at [CiTIUS](https://citius.gal).
 
 ### Projects :film_projector:
- - :hammer: I'm currently working on developing a [conditional version of StyleGAN2](https://github.com/antongomez/Conditional-StyleGAN2) that works with multispectral images.
  - :turtle: As a continuation of my work at CITMAga, I collaborated to develop multiclass functionality for the open-source project [caretEnsemble](https://github.com/zachmayer/caretEnsemble).
+ - :globe_with_meridians: I designed and developed a professional website for a nutritionist. You can check it out [here](https://alvaroleonnutricion.com).
 
 ### Interests & Skills :mag_right:
 
@@ -20,13 +21,7 @@ I am a Master's student in Artificial Intelligence at the University of Santiago
  - :dart: My main interests are NLP, Computer Vision, Statistical Classification & Remote Sensing.
  - :zap: I enjoy participating in programming competitions and taking on new challenges.
  - :family: I'm looking to collaborate on Open Source projects.
-
-### Programming Competitions :video_game:
- - :trophy: In July 2024, our team, _AbuelosDG_, finished in the [11th position](https://ada-byron.es/2024/nac/resultado.php) in the national phase of AdaByron, improving by 2 positions compared to the previous edition and solving 3 more problems than last year.
- - :computer: In May 2024, our team, participated in [HackUPC](https://hackupc.com/), where we developed [OpenSplit](https://opensplit.co/), a bot designed to help groups of people manage joint expenses and minimize the number of transfers when balancing accounts ([Project](https://devpost.com/software/opensplitbot) on Devpost - links to [backend](https://github.com/CastilloDel/OpenSplitBackend), [frontend](https://github.com/DaniPVargas/OpenSplitFrontend) and [telegram bot](https://github.com/DaniPVargas/OpenSplitBot) on GitHub).
- - :medal_military: In February 2024, our team, we developed [EcoViaggio](https://ecoviaggio.onrender.com/) and we won two of the prizes of second edition of [HackUDC](https://hackudc.gpul.org/)! ([project](https://devpost.com/software/ecoviaggio) on Devpost - [project](https://github.com/antongomez/ecoviaggio) on GitHub).
- - :trophy: In July 2023, our team, _CostaCompas_, finished in the [13th position](https://ada-byron.es/2023/nac/resultado.php) in the national phase of [AdaByron](https://ada-byron.es/2024/nac/), a university programming competition.
- - :medal_military: In February 2023, our team, we developed [CostaCompas](https://devpost.com/software/costacompas) and we won one of the prizes of first edition of [HackUDC](https://hackudc.gpul.org/)! ([project](https://devpost.com/software/costacompas?ref_content=user-portfolio&ref_feature=in_progress) on Devpost - [project](https://github.com/CastilloDel/costaCompas) on GitHub).
+ - :video_game: I've taken part in several university-level programming contests and hackathons. If you're curious, you can see more on my [website](https://antongomez.github.io/portfolio/projects).
 
 ### GitHub stats :chart_with_upwards_trend: 
 
